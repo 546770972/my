@@ -1,0 +1,9 @@
+ {
+      "id": "jukan",
+      "name": "聚看点",
+      "keys": ["jukan_ck","jukan_body", "jukan_ck2","jukan_body2", "jukan_ck3","jukan_body3", "jukan_ck4","jukan_body4", "jukan_ck5","jukan_body5", "jukan_ck6","jukan_body6", "jukan_ck7","jukan_body7", "jukan_ck8","jukan_body8", "jukan_ck9","jukan_body9"],
+      "author": "@sunert",
+      "repo": "https://github.com/Sunert/Scripts/blob/master/Task/jukan.js",
+      "icons": ["https://github.com/Sunert/ProxyConfig/raw/master/QuantumultX/Rules/Images/ICON/jukan_mini.png", "https://github.com/Sunert/ProxyConfig/raw/master/QuantumultX/Rules/Images/ICON/jukan.png"],
+      "script": "https://github.com/Sunert/Scripts/raw/master/Task/jukan.js"
+    },
